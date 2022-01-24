@@ -8,3 +8,6 @@ body{
 li{
     list-style-type: none;
 }
+.icon{
+    font-weight: 900;
+}
