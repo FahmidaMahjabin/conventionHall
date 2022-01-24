@@ -5,3 +5,6 @@ body{
 .bannerImg{
     opacity: .8;
 }
+li{
+    list-style-type: none;
+}
